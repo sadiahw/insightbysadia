@@ -134,10 +134,21 @@ footer {
 
 .top-logo {
   text-align: center;
-  margin: 2rem 0; /* space above and below the logo */
+  margin: 2rem 0; 
 }
 
 .top-logo img {
   width: 300px;   
-  height: auto;   /* maintain aspect ratio */
+  height: auto;   
+}
+
+.dashboard {
+  text-align: center;
+  margin: 2rem 0; 
+}
+
+.dashboard img {
+  width: 900px;   
+  height: auto;   
+  border-radius: 30px;
 }
