@@ -117,3 +117,27 @@ footer {
   margin-top: 2rem;
 }
 
+.card-img {
+  display: block;
+  margin: 0 auto 1rem auto; 
+  width: 100px;      
+  height: 100px;      
+  object-fit: cover;  
+}
+
+/* Navbar Logo */
+.logo img {
+  height: 50px;       
+  width: auto;       
+  display: block;
+}
+
+.top-logo {
+  text-align: center;
+  margin: 2rem 0; /* space above and below the logo */
+}
+
+.top-logo img {
+  width: 300px;   
+  height: auto;   /* maintain aspect ratio */
+}
